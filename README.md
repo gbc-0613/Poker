@@ -29,11 +29,11 @@
 
 ## 範例
 1. 程式啟動畫面（含牌桌、下注區、功能區）
-   - `![啟動畫面](screenshots/01_start.png)`
+   - ![啟動畫面](screenshots/01_start.png)
 2. 押注後發牌畫面（五張牌翻開）
-   - `![發牌畫面](screenshots/02_deal.png)`
+   - ![發牌畫面](screenshots/02_deal.png)
 3. 選牌換牌畫面
-   - `![選牌換牌](screenshots/03_change_select.png)`
+   - ![選牌換牌](screenshots/03_change_select.png)
 4. 判斷牌型與中獎金額畫面
-   - `![判斷結果](screenshots/04_result.png)`
+   - ![判斷結果](screenshots/04_result.png)
 
